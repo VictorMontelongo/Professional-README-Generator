@@ -1,10 +1,10 @@
 # Professional README Generator
   
-  ##Description
+  ## Description
   - The project is for an application that can create a README through node index.js
-  -  Create a quick and detailed README for any future project
+  - Create a quick and detailed README for any future project
   
-  ##Table on Contents
+  ## Table on Contents
   
   -[Installation](#installation)
   -[Collaborators](#collaborators)
@@ -23,7 +23,7 @@
     -JavaScript,Node.Js
   
   ## License
-    -[![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
+    -[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
     
   ## Tests
     -You can test the application with the integreated terminal

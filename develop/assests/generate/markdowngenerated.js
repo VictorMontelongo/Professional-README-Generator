@@ -19,11 +19,11 @@ function renderLicenseBadge(license) {
 function generateMarkdown(answers) {
   return `# ${answers.title}
   
-  ##Description
+  ## Description
   - ${answers.description}
   - ${answers.about}
   
-  ##Table on Contents
+  ## Table on Contents
   
   -[Installation](#installation)
   -[Collaborators](#collaborators)
