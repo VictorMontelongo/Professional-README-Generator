@@ -1,10 +1,10 @@
 # Professional README Generator
   
-  ##Description
+  ## Description
   - The project is for an application that can create a README through node index.js
   -  Create a quick and detailed README for any future project
   
-  ##Table on Contents
+  ## Table on Contents
   
   -[Installation](#installation)
   -[Collaborators](#collaborators)
