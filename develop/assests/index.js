@@ -41,20 +41,26 @@ const questions = [
     ],
   },
   {
-    type: "checkbox",
+    type: "list",
     name: "license",
     message: "Please select the license you used for this project.",
     choices: [
-      "Mozilla",
-      "MIT",
       "Apache",
       "Boost",
+      "MIT",
+      "Mozilla",
+      "None",
     ],
   },
   {
     type: "input",
     name: "test",
     message: "How do you test the App?",
+  },
+  {
+    type: "input",
+    name: "screenshot",
+    message: "Add a screenshot of the homepage ![alt text](develop/images/screenshotScreenshot 2023-10-26 180229.png)",
   },
   {
     type: "input",
