@@ -57,11 +57,7 @@ const questions = [
     name: "test",
     message: "How do you test the App?",
   },
-  {
-    type: "input",
-    name: "screenshot",
-    message: "Add a screenshot of the homepage ![alt text](develop/images/screenshotScreenshot 2023-10-26 180229.png)",
-  },
+
   {
     type: "input",
     name: "userName",
